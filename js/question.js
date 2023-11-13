@@ -134,9 +134,27 @@ options:[
 }, 
 {  
   numb: 14, 
-  question: " Qual o nome popular do cloreto de sódio?" 
-  answer:"Mônica"
-  options: [
+  question: "Que navio famoso naufragou na sua viagem inaugural?" 
+  answer:"Titanic"
+  options: [ 
+    "Titanic"
+"Antonov"
+ "Boeing"
+"Airbus" 
+  ] 
+}, 
+{  
+  numb: 15, 
+  question: "Que animal põe o maior ovo?" 
+  answer:"Avestruz"
+  options: [ 
+    "Beija-flor"
+"Avestruz"
+ "Tartaruga-gigante"
+"Galinha" 
+  ] 
+}, 
+{  
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
